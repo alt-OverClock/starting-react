@@ -12,8 +12,19 @@ function App() {
           width:800
         }
       }
+       
 
        className='title'>Pokemon Search</h1>
+
+       <h3 
+          style={
+            {
+            margin : "auto",
+            paddingTop : 2,
+           width : 800 
+          }}>
+        Buggu Hi !
+       </h3>
 
       <table width="500">
         <thead>
