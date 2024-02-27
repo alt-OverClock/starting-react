@@ -23,7 +23,7 @@ function App() {
             paddingTop : 2,
            width : 800 
           }}>
-        Buggu Hi !
+                 Buggu Hi !
        </h3>
 
       <table width="500">
